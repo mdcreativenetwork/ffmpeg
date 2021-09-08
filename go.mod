@@ -1,4 +1,4 @@
-module golift.io/ffmpeg
+module mdcreativenetwork/ffmpeg
 
 go 1.15
 
