@@ -29,7 +29,7 @@ var (
 	MaximumCaptureTime = 1200             // 10 minute max.
 	DefaultCaptureSize = int64(2500000)   // 2.5MB default (roughly 5-10 seconds)
 	MaximumCaptureSize = int64(104857600) // 100MB max.
-	DefaultFFmpegPath  = "/usr/local/bin/ffmpeg"
+	DefaultFFmpegPath  = "C:\ffmpeg"
 	DefaultProfile     = "main"
 	DefaultLevel       = "3.0"
 )
